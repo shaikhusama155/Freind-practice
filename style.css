@@ -1,0 +1,64 @@
+*{padding: 0;
+margin: 0;
+}
+body{
+  background: radial-gradient(circle, #12c2e9, #c471ed, #f64f59)
+}
+.container{
+  display: flex;
+  justify-content: center;
+}
+.card1 {
+width: 350px;
+background-color: white;
+justify-content: center;
+box-shadow: 10px 10px 20px 0px rgba(0, 0, 0, 0.5);
+justify-content: space-between;
+padding: 5px;
+margin: 20px;
+}
+.img1 {
+width: 100%;
+}
+.tag {
+background-color: rgb(86, 86, 255);
+width: 85px;
+text-align: center;
+margin: 5px;
+padding: 5px;
+color: white;
+font-weight: 900;
+border-radius: 25px;
+}
+.pad {
+padding: 5px;
+}
+.foter {
+display: inline-block;
+width: 100%;
+padding-right: 20px;
+justify-self: auto;
+margin-top: 20px;
+justify-content: space-around;
+}
+.img2 {
+width: 30px;
+}
+.img2 img {
+width: 100%;
+border-radius: 100%;
+float: left;
+}
+.para1 {
+font-weight: 600;
+color: rgb(173, 170, 170);
+}
+.bg-y{
+  background: linear-gradient(to bottom right, #cac531, #f3f9a7);
+  }
+.bg-b{
+  background: linear-gradient(to bottom right, #56ccf2, #2f80ed);
+  }
+.bg-r{
+  background: linear-gradient(to bottom right, #000000, #e74c3c);
+  }
